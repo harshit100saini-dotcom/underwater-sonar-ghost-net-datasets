@@ -1,0 +1,17 @@
+# Initial project taxonomy. Update IDs after source datasets are audited.
+path: ./data
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: ghost_net
+  1: fishing_gear
+  2: tire
+  3: pipe
+  4: bottle
+  5: can
+  6: chain
+  7: hook
+  8: debris
+  9: other_object
