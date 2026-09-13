@@ -1,0 +1,17 @@
+# Downloaded/raw datasets should not normally be committed.
+data/raw/
+data/train/
+data/val/
+data/test/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Training outputs
+runs/
+weights/
+*.pt
+*.onnx
